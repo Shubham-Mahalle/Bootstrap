@@ -140,10 +140,4 @@ The project uses CSS3 for:
 
 CSS variables are defined using the `:root` selector for reusable colors.
 
-## JavaScript Concepts Practiced
 
-The project provides practice with:
-
-### DOM Manipulation
-
-JavaScript accesses and modifies HTML elements using:
